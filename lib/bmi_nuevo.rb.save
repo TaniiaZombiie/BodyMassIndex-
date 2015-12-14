@@ -1,0 +1,5 @@
+require "bmi_nuevo/version"
+
+module BmiNuevo
+
+end
